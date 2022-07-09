@@ -1,0 +1,17 @@
+.heading{
+    width: 50%;
+    font-size: 25px;
+    }
+    
+    body {
+        background-color: yellowgreen;
+    }
+    
+    .para {
+        font-weight: bolder;
+        color: darkblue;
+    }
+    
+    b {
+        color: black;
+    }
